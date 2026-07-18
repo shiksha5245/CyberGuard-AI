@@ -255,7 +255,7 @@ CyberGuardAI/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/CyberGuardAI.git
+git clone https://github.com/shiksha5245/CyberGuard-AI.git
 ```
 
 Move into the project
